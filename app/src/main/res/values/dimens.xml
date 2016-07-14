@@ -6,5 +6,7 @@
     <dimen name="h2_20">20sp</dimen>
     <dimen name="icon">120dp</dimen>
     <dimen name="my_margin">15dp</dimen>
-
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="image">250dp</dimen>
+    <declare-styleable name="my_magin">15dp</declare-styleable>
 </resources>
